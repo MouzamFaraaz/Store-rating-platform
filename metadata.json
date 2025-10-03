@@ -1,0 +1,5 @@
+{
+  "name": "Store Rating Platform",
+  "description": "A web application that allows users to submit ratings for stores. It features role-based access for System Administrators, Normal Users, and Store Owners, each with a dedicated dashboard and functionalities.",
+  "requestFramePermissions": []
+}
